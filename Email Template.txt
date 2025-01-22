@@ -1,0 +1,11 @@
+Hi,
+
+Your email automation process has successfully completed at {0}.
+
+Please find the attached Excel file containing the latest Zillow {1} home listings for sale.
+
+Let me know if you have any questions.
+
+Kind regards,
+Email Automation Robot
+
